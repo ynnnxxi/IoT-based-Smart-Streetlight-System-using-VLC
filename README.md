@@ -5,3 +5,5 @@ This project introduces a novel smart streetlight system leveraging visible ligh
 대한전자공학회 2024년도 하계종합학술대회 참가 논문
 
 https://conf.theieie.org/2024s/
+
+(2024)
